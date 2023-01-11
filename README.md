@@ -11,7 +11,10 @@ Below is a screenshot of what the project looks like when opened in the browser 
 
 ## Usage
 
-To use and try out this project, first clone the repository from GitHub with the following link: https://github.com/umairshah14/Password-Generator.git
+To use and try out this project, first clone the repository from GitHub with the following link: https://github.com/umairshah14/Password-Generator.git and then open a local server to view
+
+OR
+visit the live deployed application at: https://umairshah14.github.io/Password-Generator/
 
 ## Credits
 
